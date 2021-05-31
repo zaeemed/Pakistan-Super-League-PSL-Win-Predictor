@@ -10,6 +10,6 @@ scikit-learn
 xgboost
 time
 pickle
-seaborn as sns
-cufflinks as cf
+seaborn
+cufflinks
 warnings
