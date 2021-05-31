@@ -1,5 +1,5 @@
 streamlit
-PIL
+pillow
 matplotlib
 plotly
 pickle
