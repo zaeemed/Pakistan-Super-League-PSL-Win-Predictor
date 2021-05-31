@@ -2,7 +2,7 @@ streamlit
 pillow
 matplotlib
 plotly
-pickle
+pickle-mixin
 numpy
 pandas
 math
