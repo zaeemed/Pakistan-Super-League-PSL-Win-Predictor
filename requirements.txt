@@ -5,11 +5,10 @@ plotly
 pickle-mixin
 numpy
 pandas
-math
+python-math
 scikit-learn
 xgboost
-time
-pickle
+times
 seaborn
 cufflinks
-warnings
+pytest-warnings
